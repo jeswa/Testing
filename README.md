@@ -2,5 +2,5 @@
 
 ## CRM Testing
 
-http://www.optimusinfo.com/testing-crm-application
+http://www.optimusinfo.com/testing-crm-application/
 
